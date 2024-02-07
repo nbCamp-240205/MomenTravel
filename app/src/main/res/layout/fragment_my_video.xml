@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="240dp"
             android:scaleType="fitXY"
-            android:src="@drawable/ic_greece"
+            android:src="@drawable/ic_airport"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -67,7 +67,6 @@
             app:layout_constraintTop_toBottomOf="@+id/iv_myVideo_screen" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout2"
